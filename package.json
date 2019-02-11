@@ -1,0 +1,22 @@
+{
+  "name": "dummy",
+  "version": "1.0.0",
+  "description": "This is a dummy project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamStuller/dummy.git"
+  },
+  "author": "adamstuller",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamStuller/dummy/issues"
+  },
+  "homepage": "https://github.com/AdamStuller/dummy#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
